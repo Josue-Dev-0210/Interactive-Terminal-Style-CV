@@ -108,23 +108,23 @@ const PROJECTS = [
     name: 'Terminal Interactiva',
     stack: 'HTML 5 + CSS3 + Vanilla JS',
     desc: 'Terminal interactiva embebible en cualquier sitio web.',
-    url: 'https://github.com/josue-dev-0210/terminal',
+    url: 'https://josue-dev-0210.github.io/Interactive-Terminal-Style-CV/',
   },
   {
     id: 'calculadora',
     name: 'Calculadora de Subredes',
     stack: 'HTML5 + CSS3 + Vanilla JS',
     desc: 'Calculadora de subredes con apartados para el CIDR y la cantidad de subredes a calcular, embebible en cualquier sitio web.',
-    url: ''
+    url: 'https://josue-dev-0210.github.io/Calculadora-Subredes-JC/'
   },
   {
     id: 'escaner',
     name: 'Simulador de Escaner de red',
     stack: 'HTML5 + CSS3 + Vanilla JS',
     desc: 'Es un simulador de escaneo de redes, en base a que direcciones ingreses te dara los resultados de la cantidad de host, los activos, los puertos abiertos y el tiempo que se tomo el escaneo',
-    url: ''
+    url: 'https://josue-dev-0210.github.io/Net-Scanner-JC/'
   }
-];
+];  
 
 const SKILLS = {
   lenguajes: { icon: 'code',    items: ['Python', 'JavaScript', 'Java', 'C++', 'Bash', 'SQL'] },
