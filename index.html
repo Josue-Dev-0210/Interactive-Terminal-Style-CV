@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terminal — Josue-Dev-0210</title>
+  <link rel="stylesheet" href="terminal.css" />
+</head>
+<body>
+  <div id="term-wrap">
+
+    <div id="titlebar">
+      <div class="dots">
+        <div class="dot dot-r"></div>
+        <div class="dot dot-y"></div>
+        <div class="dot dot-g"></div>
+      </div>
+      <div id="title-text">josue-dev-0210@terminal ~ zsh</div>
+    </div>
+
+    <div id="suggestions">
+      <span class="sug-label">sugerencias:</span>
+    </div>
+
+    <div id="output"></div>
+
+    <div id="input-row">
+      <span id="ps1">josue-dev-0210@terminal:~$</span>
+      <input
+        id="cmd-input"
+        type="text"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+        placeholder="escribe un comando..."
+        aria-label="entrada de comando"
+      />
+    </div>
+
+  </div>
+
+  <script src="terminal.js"></script>
+</body>
+</html>
