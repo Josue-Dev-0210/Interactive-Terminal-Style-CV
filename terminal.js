@@ -124,6 +124,13 @@ const PROJECTS = [
     desc: 'Es un simulador de escaneo de redes, en base a que direcciones ingreses te dara los resultados de la cantidad de host, los activos, los puertos abiertos y el tiempo que se tomo el escaneo',
     url: 'https://josue-dev-0210.github.io/Net-Scanner-JC/'
   }
+  {
+    id: 'tester',
+    name: 'Tester de fuerza en contrasenas',
+    stack: 'HTML5 + CSS3 + Vanilla JS',
+    desc: 'Este es un tester de contrasenas que permite al usuario saber si su contrasena es segura o no junto con un apartado de sugerencias de seguridad para hacer la constrasena mas segura',
+    url: 'https://josue-dev-0210.github.io/Password-tester-JC/'
+  }
 ];  
 
 const SKILLS = {
