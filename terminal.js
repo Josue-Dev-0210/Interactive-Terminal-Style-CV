@@ -123,7 +123,7 @@ const PROJECTS = [
     stack: 'HTML5 + CSS3 + Vanilla JS',
     desc: 'Es un simulador de escaneo de redes, en base a que direcciones ingreses te dara los resultados de la cantidad de host, los activos, los puertos abiertos y el tiempo que se tomo el escaneo',
     url: 'https://josue-dev-0210.github.io/Net-Scanner-JC/'
-  }
+  },
   {
     id: 'tester',
     name: 'Tester de fuerza en contrasenas',
