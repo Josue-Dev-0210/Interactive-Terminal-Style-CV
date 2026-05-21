@@ -130,6 +130,13 @@ const PROJECTS = [
     stack: 'HTML5 + CSS3 + Vanilla JS',
     desc: 'Este es un tester de contrasenas que permite al usuario saber si su contrasena es segura o no junto con un apartado de sugerencias de seguridad para hacer la constrasena mas segura',
     url: 'https://josue-dev-0210.github.io/Password-tester-JC/'
+  },
+  {
+    id: 'dex',
+    name: 'LinuxDex',
+    stack: 'HTML5 + CSS3 + Vanilla JS',
+    desc: 'Es una pagina web interactiva donde puedes encontrar los comandos mas comunes en linux, y que resalta en rojo los comandos con los que hay tener cuidado para no romper el sistema',
+    url: 'https://josue-dev-0210.github.io/LinuxDex/'
   }
 ];  
 
