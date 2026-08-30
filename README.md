@@ -2,8 +2,6 @@ INTERACTIVE TERMINAL STYLE CV
 
 Interactive terminal-inspired portfolio website built with Vanilla JavaScript, featuring skills, projects, certificates, and contact information through a cyberpunk terminal interface.
 
-LIVE DEMO
-
 https://josue-dev-0210.github.io/Interactive-Terminal-Style-CV/
 
 FEATURES 
