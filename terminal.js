@@ -111,7 +111,7 @@ const PROJECTS = [
     url: 'https://josue-dev-0210.github.io/Interactive-Terminal-Style-CV/',
   },
   {
-    id: 'calculadora',
+    id: 'subnet',
     name: 'Sub-Net-FORGE',
     stack: 'HTML5 + CSS3 + Vanilla JS',
     desc: 'Sub-Net-FORGE con apartados para el CIDR y la cantidad de subredes a calcular, embebible en cualquier sitio web.',
