@@ -112,10 +112,10 @@ const PROJECTS = [
   },
   {
     id: 'calculadora',
-    name: 'Calculadora de Subredes',
+    name: 'Sub-Net-FORGE',
     stack: 'HTML5 + CSS3 + Vanilla JS',
-    desc: 'Calculadora de subredes con apartados para el CIDR y la cantidad de subredes a calcular, embebible en cualquier sitio web.',
-    url: 'https://josue-dev-0210.github.io/Calculadora-Subredes-JC/'
+    desc: 'Sub-Net-FORGE con apartados para el CIDR y la cantidad de subredes a calcular, embebible en cualquier sitio web.',
+    url: 'https://josue-dev-0210.github.io/Sub-Net-FORGE-JC/'
   },
   {
     id: 'escaner',
